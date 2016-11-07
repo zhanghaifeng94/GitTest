@@ -1,0 +1,132 @@
+.foot {
+    width: 1280px;
+    margin: 40px auto;
+    overflow: hidden;
+}
+
+.foot_top {
+    padding: 20px 0;
+    border-top: 1px solid #ddd;
+    border-bottom: 1px solid #ddd;
+    margin: 0;
+    overflow: hidden;
+}
+
+.foot_top li {
+    width: 24%;
+    height: 60px;
+    border-right: 1px solid #ddd;
+    text-align: center;
+    background: url(../img/icon.png) no-repeat;
+    padding-right: 5px;
+    padding-left: 5px;
+    float: left;
+}
+
+.foot_top .f1 {
+    background-position: 40px 0;
+}
+
+.foot_top .f2 {
+    background-position: 40px -60px;
+}
+
+.foot_top .f3 {
+    background-position: 40px -120px;
+}
+
+.foot_top .f4 {
+    background-position: 40px -180px;
+    border: none;
+}
+
+.foot_center {
+    padding: 20px 0;
+    margin-bottom: 15px;
+    min-height: 160px;
+    border-bottom: 1px solid #ddd;
+}
+
+.foot_center .box {
+    float: left;
+    margin: 0 85px;
+    width: 315px;
+    height: 145px;
+    text-align: center;
+}
+
+.box .boxT {
+    width: 100%;
+    height: 82px;
+}
+
+.box .boxT img {
+    width: 100%;
+    height: 100%;
+}
+
+.box .boxC {
+    margin: 5px 0;
+}
+
+.box .boxB {
+    font-size: 18px;
+    color: #555;
+}
+
+.foot_center .ul1 {
+    float: left;
+}
+
+.ul1 li {
+    float: left;
+    width: 130px;
+    text-align: center;
+    margin-right: 45px;
+    color: #999;
+    font-size: 12px;
+}
+.ul1 li img{
+    width: 100%;
+    margin-bottom: 10px;
+}
+.foot_center .ul2 {
+    float: left;
+}
+.ul2 li{
+    float: left;
+    margin-left: 30px;
+}
+.ul2 li h4{
+    margin-bottom: 20px;
+    font-size: 16px;
+    margin-top: 10px;
+}
+.ul2 li a{
+    display: block;
+    line-height: 30px;
+    color: #999;
+}
+.foot_bottom {
+	text-align: center;
+    font-size: 14px;
+}
+.foot_bottom .fbt{
+	margin-bottom: 5px;
+    color:#999;
+}
+.foot_bottom .fbc{
+	margin-bottom: 5px;
+    color:#64a131;
+}
+.foot_bottom div .a1{
+    display: inline-block;
+    width: 42px;
+    height: 42px;
+    margin: 0 10px;
+    text-align: center;
+}
+.foot_bottom div .a1 img{
+    height: 100%;
+    width:auto;
+}

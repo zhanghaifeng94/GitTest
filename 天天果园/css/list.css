@@ -1,0 +1,182 @@
+#listbg {
+    width: 1280px;
+    margin: 0 auto;
+    overflow: hidden;
+}
+
+.filtro {
+    padding-top: 26px;
+    overflow: hidden;
+}
+
+.fil {
+    width: 100%;
+    padding-bottom: 6px;
+    padding-top: 12px;
+    border-bottom: 1px solid #ccc;
+    overflow: hidden;
+}
+
+.filtro .fil4 {
+    border-bottom: none;
+}
+
+.fil h4 {
+    color: #999;
+    line-height: 24px;
+    margin-right: 20px;
+    float: left;
+}
+
+.fil .fil_box {
+    width: 1228px;
+    float: left;
+}
+
+.fil_box .option {
+    width: 48px;
+    float: left;
+}
+
+.option a {
+    background: #64a131;
+    color: #fff;
+    font-size: 14px;
+    height: 24px;
+    display: inline-block;
+    text-align: center;
+    line-height: 24px;
+    padding-left: 9px;
+    padding-right: 9px;
+}
+
+.fil_box .list_fil {
+    width: 1180px;
+    float: left;
+}
+
+.fil_box .po {
+    background: #F0F0F0;
+}
+
+.list_fil a {
+    float: left;
+    display: inline-block;
+    color: #555555;
+    font-size: 14px;
+    height: 24px;
+    padding-left: 9px;
+    padding-right: 9px;
+    line-height: 24px;
+    text-align: center;
+}
+
+.list {
+    margin-top: 27px;
+}
+
+.list .listL {
+    width: 1000px;
+    margin-bottom: 92px;
+    float: left;
+    margin-left: 5px;
+}
+
+.listL ul {
+    margin: 0 -4px;
+}
+
+.list ul li {
+    position: relative;
+    float: left;
+    width: 240px;
+    margin-left: 8px;
+    margin-right: 4px;
+    overflow: hidden;
+    margin-bottom: 8px;
+    transition: all 0.5s linear 0s;
+    cursor: pointer;
+}
+
+.list ul li:hover {
+    box-shadow: 0 0 20px #A5A5A5
+}
+.list .l_img{
+	height: 224px;
+    margin-bottom: 6px;
+}
+.list .l_img img{
+    width: 100%;
+    height:100%;
+}
+.list .l_info{
+    height: 24px;
+    line-height: 24px;
+    margin-left: 3px;
+    overflow: hidden;
+    margin-bottom: 5px;
+}
+.list .l_info span{
+	float: right;
+    padding-right: 3px;
+    color:#999;
+}
+.list .num{
+    padding-top: 3px;
+    overflow: hidden;
+}
+.list .num .number{
+    padding-left: 3px;
+    width: 200px;
+    height: 22px;
+    overflow: hidden;
+    float: left;
+}
+.num .number span{
+	height: 22px;
+    border: 1px solid #dddddd;
+    border-radius: 2px;
+    text-align: center;
+    line-height: 20px;
+    padding: 0 5px;
+    font-size: 13px;
+    margin-right: 18px;
+    color: #999;
+    cursor: pointer;
+}
+.num .caer {
+	color:#F7B51F;
+    font-size: 35px;
+    margin-top: -8px;
+    float: right;
+    cursor: pointer;
+}
+.list .listR{
+    float: right;
+    padding-left: 20px;
+    width: 255px;
+}
+.listR h4{
+	color: #64a131;
+    border-bottom: 1px solid #ccc;
+    line-height: 39px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

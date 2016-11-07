@@ -1,0 +1,73 @@
+[
+    {
+        "images": "img/1-270x270-13738-23CKHT1U.jpg",
+        "name": "陕西富士苹果",
+        "price": "￥49.90/5斤",
+        "caer": "&#xe605;",
+        "news": "新品",
+        "id":"0"
+    }, {
+        "images": "img/1-270x270-13721-T8CPDKD6.jpg",
+        "name": "山东蜜桃",
+        "price": "￥59.90/4斤",
+        "caer": "&#xe605;",
+        "news": "",
+        "id":"1"
+    }, {
+        "images": "img/1-270x270-13584-TA1W331F.jpg",
+        "name": "新疆白金蜜瓜",
+        "price": "￥39.90/2个",
+        "caer": "&#xe605;",
+        "news": "新品",
+        "id":"2"
+    }, {
+        "images": "img/1-270x270-13542-CK8C8CYA.jpg",
+        "name": "琯溪白玉蜜柚",
+        "price": "￥39.90/2个",
+        "caer": "&#xe605;",
+        "news": "",
+        "id":"3"
+    }, {
+        "images": "img/1-270x270-13661-PPXB7P3Y.jpg",
+        "name": "澳大利亚高糖度脐橙",
+        "price": "￥128.00/20个",
+        "caer": "&#xe605;",
+        "news": "",
+        "id":"4"
+    }, {
+        "images": "img/1-270x270-13448-9AHTXWAT.jpg",
+        "name": "美国有籽红提",
+        "price": "￥99.00/4斤",
+        "caer": "&#xe605;",
+        "news": "",
+        "id":"5"
+    }, {
+        "images": "img/1-270x270-13045-FCAAPAP6.jpg",
+        "name": "泰国椰青",
+        "price": "￥49.90/4个",
+        "caer": "&#xe605;",
+        "news": "增开瓶器",
+        "id":"6"
+    }, {
+        "images": "img/1-270x270-10862-3Y6Y41RB.jpg",
+        "name": "泰国山竹",
+        "price": "￥99.00/4斤",
+        "caer": "&#xe605;",
+        "news": "",
+        "id":"7"
+    }, {
+        "images": "img/1-270x270-11959-8YF3YWF1.jpg",
+        "name": "新西兰柠檬",
+        "price": "￥29.00/8个",
+        "caer": "&#xe605;",
+        "news": "",
+        "id":"8"
+    }, {
+        "images": "img/1-270x270-5992-RUBS3UW3.jpg",
+        "name": "精选百香果",
+        "price": "￥19.90/6个",
+        "caer": "&#xe605;",
+        "news": "",
+        "id":"9"
+    }
+]

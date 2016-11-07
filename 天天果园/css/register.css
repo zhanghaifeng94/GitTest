@@ -1,0 +1,175 @@
+#register_box {
+    width: 1000px;
+    margin: 0 auto;
+    padding-top: 50px;
+    overflow: hidden;
+}
+
+#register_box h2 {
+    width: 1000px;
+    font-size: 20px;
+    color: #999;
+    padding-top: 15px;
+    padding-bottom: 16px;
+    border-bottom: 1px solid #ccc;
+    margin-bottom: 36px;
+}
+
+#register_box .register {
+    overflow: hidden;
+}
+
+#register_box .register .register_left {
+    width: 500px;
+    position: relative;
+    margin-bottom: 46px;
+    float: left;
+}
+
+.register_left .login_a {
+    position: absolute;
+    left: 181px;
+    bottom: 37px;
+}
+
+.login_a a {
+    border: 1px solid #64a131;
+    padding: 12px 33px;
+    height: 48px;
+    border-radius: 4px;
+    color: #64a131;
+    background: #fff;
+    text-align: center;
+    font-size: 18px;
+}
+
+#register_box .register .register_right {
+    width: 440px;
+    float: right;
+    padding-left: 60px;
+}
+
+.register_right .all {
+    padding-bottom: 26px;
+    overflow: hidden;
+}
+
+.register_right .all span {
+    width: 96px;
+    height: 40px;
+    font-size: 16px;
+    float: left;
+    text-align: right;
+    color: #999;
+    line-height: 40px;
+    margin-left: -32px;
+}
+
+.register_right .all div {
+    position: relative;
+    padding-left: 42px;
+    float: left;
+}
+
+.register_right .all div input {
+    width: 272px;
+    height: 26px;
+    outline: none;
+    font-family: arial;
+    padding: 6px 12px;
+    font-size: 14px;
+    color: #555;
+    background: #fff;
+    border: 1px solid #ccc;
+}
+
+.register_right .all div .code {
+    width: 244px;
+}
+
+.icons {
+    background: url(../img/icons.png) no-repeat -12px -360px;
+    width: 22px;
+    height: 22px;
+    display: inline-block;
+    position: absolute;
+    top: 10px;
+    right: -36px;
+}
+
+.error {
+    background: url(../img/error.png) no-repeat 0 0;
+    width: 22px;
+    height: 22px;
+    display: inline-block;
+    position: absolute;
+    top: 10px;
+    right: -36px;
+}
+
+.register_right .all div .lkj {
+    right: -65px;
+}
+
+.register_right .all div i {
+    position: absolute;
+    top: 10px;
+    right: -30px;
+    width: 20px;
+    height: 20px;
+    cursor: pointer;
+    background: url(../img/icons.png) no-repeat -7px -325px;
+}
+
+.register_right .all .btns {
+    font-size: 16px;
+    float: right;
+}
+
+.register_right .all .btns .btn1 {
+    margin-right: 14px;
+    float: left;
+    padding: 0;
+}
+
+.register_right .all .btns .btn2 {
+    float: left;
+    padding: 0;
+}
+
+.all .btns .btn1 a {
+    display: block;
+    width: 143px;
+    height: 38px;
+    background-color: #64a131;
+    border-radius: 4px;
+    border: none;
+    line-height: 38px;
+    text-align: center;
+    color: #fff;
+}
+
+.all .btns .btn2 a {
+    display: block;
+    width: 143px;
+    height: 38px;
+    border: 1px solid #64a131;
+    line-height: 38px;
+    text-align: center;
+    background-color: #f5ffed;
+    color: #7bae55;
+    border-radius: 4px;
+}
+
+#idcode {
+    position: absolute;
+    top: 1px;
+    right: 1px;
+    width: 115px;
+    height: 40px;
+    text-align: center;
+    font-size: 20px;
+    color: blue;
+    line-height: 40px;
+    cursor: pointer;
+}

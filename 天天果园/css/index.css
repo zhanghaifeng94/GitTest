@@ -1,0 +1,192 @@
+#banner_box {
+    width: 100%;
+    height: 400px;
+    position: relative;
+    overflow: hidden;
+}
+
+.banner {
+    width: 100%;
+    height: 100%;
+}
+
+.pic_list {
+    width: 15360px;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.pic_list li {
+    float: left;
+    width: 1920px;
+    height: 100%;
+    z-index: 10;
+}
+
+.pic_list li img {
+    width: 100%;
+    height: 100%;
+}
+
+.btn_list {
+    position: absolute;
+    width: 100%;
+    height: 20px;
+    bottom: 20px;
+    left: 0;
+    padding-left: 0;
+    margin-bottom: 0;
+    z-index: 20;
+    text-align: center;
+}
+
+.btn_list li {
+    width: 18px;
+    height: 18px;
+    display: inline-block;
+    border-radius: 50%;
+    cursor: pointer;
+    border: 1px solid #64a131;
+    background: rgba(100, 161, 49, 0.09);
+    margin: 0 8px;
+}
+
+.btn_list .active {
+    background: #64a131;
+}
+
+#showCare {
+    width: 1280px;
+    margin: 0 auto;
+    margin-bottom: 50px;
+    margin-top: 10px;
+    overflow: hidden;
+}
+
+#showCare ul li {
+    float: left;
+    margin-right: 26px;
+}
+
+#showCare .riht {
+    margin-right: 0;
+}
+
+#showCare ul li a {
+    width: 300px;
+    height: 140px;
+    display: block;
+}
+
+#showCare ul li a img {
+    width: 100%;
+    height: 100%;
+}
+
+#rend {
+    margin-bottom: 50px;
+    position: relative;
+}
+
+#rend .rend_title {
+    width: 1280px;
+    margin: 0 auto;
+    border-top: 1px solid #ccc;
+    padding: 15px 0 10px;
+    color: #ccc;
+    font-size: 14px;
+    height: 42px;
+    line-height: 42px;
+}
+
+.rend_title .rend_titleL {
+    float: left;
+    height: 100%;
+}
+
+.rend_title .rend_titleL img {
+    display: inline;
+    height: 100%;
+}
+
+.rend_title a {
+    float: right;
+    color: #333;
+}
+
+.rend_text ul {
+    width: 1290px;
+    margin: 0 auto;
+    overflow: hidden;
+}
+
+.rend_text  li {
+    float: left;
+    width: 248px;
+    height: 305PX;
+    position: relative;
+    margin: 0 5px 5px;
+}
+
+.por_list .p_img {
+    width: 100%;
+    height: auto;
+    overflow: hidden;
+    margin-bottom: 5xp;
+}
+
+.por_list .p_img img {
+    cursor: pointer;
+    transition: all 0.6s;
+}
+
+.por_list .p_img img:hover {
+    transform: scale(1.2);
+}
+
+.por_list .p_info {
+    position: relative;
+    font-size: 14px;
+    margin-bottom: 0;
+}
+
+.por_list .p_info .name {
+    display: block;
+    padding-left: 2px;
+    overflow: hidden;
+    color: #555;
+    max-width: 210px;
+}
+
+.por_list .p_info .price {
+    margin-left: 5px;
+    overflow: hidden;
+    color: #999;
+}
+
+.por_list .caer {
+    position: absolute;
+    top: auto;
+    bottom: 5px;
+    right: 2px;
+    width: 34px;
+    height: 34px;
+    cursor: pointer;
+}
+.por_list .caer i{
+    font-size: 34px;
+    color:#F7B51F;
+}
+.por_list .news{
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+.por_list .news span{
+    background:#65A032;
+    font-size: 14px;
+    color:#fff;
+    cursor: pointer;
+}
